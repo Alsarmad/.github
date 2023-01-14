@@ -2,7 +2,7 @@
 
 <div align="center">
    
-   <img align="center" src = "./Alsarmad.png">
+   <img align="center" src = "./profile/Alsarmad.png">
  
 </div> <br>
 
@@ -23,6 +23,6 @@
 
 <div align="center">
    
-   <img align="center" src = "./Alsarmad-black.png">
+   <img align="center" src = "./profile/Alsarmad-black.png">
  
 </div>
