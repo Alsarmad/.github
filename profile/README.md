@@ -1,5 +1,3 @@
-# السرمد
-
 <div align="center">
    
    <img align="center" src = "./profile/Alsarmad.png">
