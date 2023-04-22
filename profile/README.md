@@ -16,11 +16,4 @@
 - تيليجرام: [Telegram](https://t.me/Alsarmad_org)
 ###### نشكرك على اهتمامك بعملنا و بالبرمجيات الحرة ومفتوحة المصدر! 🙏
 
-<br>
-<br>
 
-<div align="center">
-   
-   <img align="center" src = "./profile/Alsarmad-black.png">
- 
-</div>
